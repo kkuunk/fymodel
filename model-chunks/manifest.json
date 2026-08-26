@@ -1,0 +1,33 @@
+{
+  "name": "doclayout_yolo_docstructbench_imgsz1024.onnx.gz",
+  "size": 64827420,
+  "sha256": "a568f896eb186c44564175af192247703cad873f3a7204363f603d8a68a17f4f",
+  "chunkSize": 15728640,
+  "chunks": [
+    {
+      "name": "chunk-00.bin",
+      "size": 15728640,
+      "sha256": "041241ec46f057a34f78b4c07afcbc1b7bd333fb7cccb3dab038ece467ce87c0"
+    },
+    {
+      "name": "chunk-01.bin",
+      "size": 15728640,
+      "sha256": "680d7a5feb230f60eb3804bc0e5ef1c2db5421e3fda3b65d1d54924763431e36"
+    },
+    {
+      "name": "chunk-02.bin",
+      "size": 15728640,
+      "sha256": "f776d937edcfa86bd1086c5c61cc7776d11acb978196045475f4abd89d4af839"
+    },
+    {
+      "name": "chunk-03.bin",
+      "size": 15728640,
+      "sha256": "dd7fc0c3bf8063e995406227965de31e25f3824fa06c008f4cac18a6b3c7ca0b"
+    },
+    {
+      "name": "chunk-04.bin",
+      "size": 1912860,
+      "sha256": "f46cb0f1fc8617c1299a00bc10ff19715138476cb860e9dc333cd97adea4b269"
+    }
+  ]
+}
